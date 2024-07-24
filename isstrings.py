@@ -1,0 +1,13 @@
+a="nandhini kasoji 2731"
+# print(a.isalnum())
+# print(a.isalpha())
+# print(a.isascii())
+# print(a.isdecimal())
+print(a.isidentifier())
+# print(a.islower())
+# print(a.isnumeric())
+# print(a.isdigit())
+# print(a.isspace())
+# print(a.istitle())
+# print(a.isupper())
+# print(a.isprintable())

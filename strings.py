@@ -1,0 +1,10 @@
+str="nandhini"
+# print(str.isupper())
+# print(str.capitalize())
+# print(str.islower())
+# print(str.title())
+# print(str.swapcase())
+# print(str.upper())
+print(str.strip())
+# print(str.split('h'))
+# print(str.replace('a','d'))
